@@ -15,7 +15,7 @@ import java.util.stream.Collectors;
 
 public class App {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 
 		// test data
 		Task task1 = new Task(2, Category.RED);
